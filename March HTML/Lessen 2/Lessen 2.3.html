@@ -3,8 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+        body{
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .Box{
+            width: 120px;
+            height: 120px;
+            background-color: chartreuse;
+        }
+        .Box1{
+            width: 400px;
+            height: 200px;
+            background-color: blueviolet;
+        }
+        .Box2{
+           margin: 15px;
+            width: 400px;
+            height: 100px;
+            display: flex;
+            justify-content: space-between;
+
+        }
+        .Box3{
+            margin: 20px;
+            width: 400px;
+            height: 350px;
+            background-color: blueviolet;}
+    </style>
 </head>
 <body>
-
+<div class="Box1"></div>
+<div class="Box2">
+    <div class="Box"></div>
+    <div class="Box"></div>
+    <div class="Box"></div>
+</div>
+<div class="Box3"></div>
 </body>
 </html>
