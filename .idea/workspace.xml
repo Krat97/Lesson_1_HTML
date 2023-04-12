@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50c79cb4-8486-477d-bc41-ccaf7cc95224" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/March HTML/Lessen 2/Lessen 2.2.html" afterDir="false" />
+    <list default="true" id="50c79cb4-8486-477d-bc41-ccaf7cc95224" name="Changes" comment="Merge remote-tracking branch 'github/master'">
+      <change afterPath="$PROJECT_DIR$/March HTML/Lessen 2/Lessen 2.3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/March HTML/Lessen 2/Lessen 2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/March HTML/Lessen 2/Lessen 2.2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681333853780</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/master'">
+      <created>1681335165064</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681335165064</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
